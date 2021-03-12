@@ -6,7 +6,8 @@ module.exports = {
     backgroundColor: theme => ({
       ...theme('colors'),
       'light-bg': '#FBFBFB',
-      'orange-bg': '#FF9933'
+      'orange-bg': '#FF9933',
+      'black-bg': '#000000'
     }),
     textColor: {
       orange: '#FF9933',

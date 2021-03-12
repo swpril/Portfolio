@@ -9,6 +9,26 @@
         "The Color Store is a clone of Flat UI Colors which allow users to choose colors from different palettes.",
         "The Color Store has 175+ preloaded colors to choose from."
       ]
+    },
+    {
+      "name": "Notify",
+      "url": "https://github.com/swpril/notes-frontend",
+      "tech": "JavaScript, React, Material-UI, NodeJS, Express, MongoDB and Mongoose.",
+      "description": [
+        "Notify is a note taking app.",
+        "It is a full stack application built using React and NodeJS.",
+        "For every note a URL will be generated and users can share that URL."
+      ]
+    },
+    {
+      "name": "Fooder",
+      "url": "https://github.com/swpril/fooder",
+      "tech": "JavaScript, NodeJS, Express, JWT, MongoDB and Mongoose.",
+      "description": [
+        "Developed back-end for food ordering application in NodeJS.",
+        "It allow users to search by dish name or vendor name.",
+        "Users can place orders and check order status via Order ID."
+      ]
     }
   ]
 }
