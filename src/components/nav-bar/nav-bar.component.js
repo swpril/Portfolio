@@ -7,7 +7,7 @@ const NavBarComponent = ({ isDarkMode }) => {
   const [active, setActive] = useState(false);
 
   const resumeUrl =
-    'https://drive.google.com/file/d/1P4SrvLULuL0gT_s1e9sxJCIxRQf07b8h/view?usp=sharing';
+    'https://drive.google.com/file/d/10sMSBjWeGYcie77yyVQLU-h6qVW23MDk/view?usp=sharing';
 
   const scrollToSection = sectionId => scrollTo(sectionId);
   const handleClick = () => setActive(!active);

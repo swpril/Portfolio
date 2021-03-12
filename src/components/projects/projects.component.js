@@ -66,7 +66,7 @@ const ProjectComponent = ({ darkMode }) => {
                   className={`bg-transparent border border-solid border-${
                     darkMode ? 'white' : 'black'
                   } hover:bg-${
-                    darkMode ? 'orange' : 'black'
+                    darkMode ? 'orange-bg' : 'black-bg'
                   } hover:text-white p-1 rounded mt-2 focus:outline-none`}
                   type='button'
                   onClick={() => window.open(project.url)}
